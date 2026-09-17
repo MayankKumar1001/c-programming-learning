@@ -2,11 +2,15 @@
 
 int main()
 {
-    int roll_no;
-    char name[50];
-    float percent;
+    int age;
+    printf("Enter the age :");
+    scanf("%d",&age);
 
-    printf("Enter name :");
-    scanf("%c",&name);
+    if (age>=18)
+    printf("Adult");
+
+    else
+    printf("Not Adult");
+    return 0;
     
 }
