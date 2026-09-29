@@ -1,6 +1,6 @@
 #include<stdio.h> // square of n stars.
 int main(){
-
+                                                                
         int  i,j,n,k;
 
         printf("Enter the value of n : ");
@@ -33,5 +33,14 @@ int main(){
    return 0;     
 }
         
+/*output :- 
 
+Enter the value of n : 5
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
 

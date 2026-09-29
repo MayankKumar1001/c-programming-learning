@@ -14,3 +14,12 @@ int main()
     }
     return 0;
 }
+/*output :-
+Enter a number : 5
+5  4  3  2  1  
+5  4  3  2  
+5  4  3  
+5  4  
+5  
+
+*/

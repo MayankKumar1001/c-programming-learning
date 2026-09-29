@@ -23,3 +23,10 @@ int main(){
     }
     return 0;
 }
+/*output :-
+Enter a number : 5
+*********
+ *******
+  *****
+   ***
+    *   */
