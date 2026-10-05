@@ -14,3 +14,11 @@ int main(){
 	}
 	return 0;
 }
+/*output :-
+Enter the value of n : 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+1 2 3 4 5
+*/
