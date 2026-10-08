@@ -9,7 +9,7 @@ int main(){
 	struct student s1;
 	
 	printf("Enter Student's name : ");
-	scanf("%s",s1.a);
+	gets(s1.a);
 	
 	printf("Enter the roll no. : ");
 	scanf("%d",&s1.roll);
@@ -28,8 +28,8 @@ int main(){
 	return 0;
 }
 /*output :-
-Enter Student's name : Mayank
+Enter Student's name : Mayank Kumar
 Enter the roll no. : 18
-Enter the marks : 92
-Mayank is pass.
+Enter the marks : 96
+Mayank Kumar is pass.
 */
