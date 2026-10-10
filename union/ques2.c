@@ -56,11 +56,12 @@ void main(){
 		printf("Roll no.- %d\n",s.roll);
 		printf("Total percentage = %0.2f",s.result.percentage);
 	}
-	else{
+	else if (n==3){
 		printf("\n%s",s.name);
 		printf("Roll no.- %d\n",s.roll);
 		printf("Grade %c",s.result.grade);
 	}
+	
 }
 /*output :-
 Enter the name of student : Mayank Kumar
